@@ -4,12 +4,12 @@
 // @version      1.0.0
 // @description  Hide NiceHash marketplace rows whose Limit is at or below a per-marketplace threshold.
 // @author       SeriousPassenger
-// @license      GPL-3.0-only
+// @exclude			 https://www.nicehash.com/my/marketplace/orders*
+// @exclude			 https://www.nicehash.com/my/marketplace/pools*
 // @match        https://www.nicehash.com/*
 // @run-at       document-idle
 // @grant        none
 // @homepageURL  https://github.com/SeriousPassenger/NiceHash-Hashrate-Marketplace-Filter-By-Order-Limit
-// @supportURL   https://github.com/SeriousPassenger/NiceHash-Hashrate-Marketplace-Filter-By-Order-Limit/issues
 // @updateURL    https://raw.githubusercontent.com/SeriousPassenger/NiceHash-Hashrate-Marketplace-Filter-By-Order-Limit/main/nicehash-marketplace-limit-filter.user.js
 // @downloadURL  https://raw.githubusercontent.com/SeriousPassenger/NiceHash-Hashrate-Marketplace-Filter-By-Order-Limit/main/nicehash-marketplace-limit-filter.user.js
 // ==/UserScript==
