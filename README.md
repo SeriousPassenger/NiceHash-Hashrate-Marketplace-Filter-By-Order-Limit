@@ -4,6 +4,8 @@ A simple userscript that adds a small filter panel to the NiceHash hashrate mark
 
 It helps hide orders with a low **Limit** value, so the marketplace table is easier to scan.
 
+![Script in action](https://raw.githubusercontent.com/SeriousPassenger/NiceHash-Hashrate-Marketplace-Filter-By-Order-Limit/refs/heads/main/example.png)
+
 ## Features
 
 - Hide marketplace rows where **Limit ≤ your chosen threshold**
