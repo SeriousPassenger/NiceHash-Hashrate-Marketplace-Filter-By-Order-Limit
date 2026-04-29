@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NiceHash Hashrate Marketplace Filter By Order Limit
 // @namespace    https://github.com/SeriousPassenger
-// @version      1.0.0
+// @version      1.0.1
 // @description  Hide NiceHash marketplace rows whose Limit is at or below a per-marketplace threshold.
 // @author       SeriousPassenger
 // @exclude			 https://www.nicehash.com/my/marketplace/orders*
